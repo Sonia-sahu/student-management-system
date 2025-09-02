@@ -22,7 +22,10 @@ A simple Student Management System designed to help manage student records, incl
 ### Prerequisites
 
 Make sure you have the following installed:
+Install dependencies (if applicable):
 
+bash
+npm install
 - Node.js / Python / PHP
 - MySQL / MongoDB
 - Git
@@ -30,6 +33,8 @@ Make sure you have the following installed:
 ### Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/student-management-system.git
+   
+   git clone https://github.com/Sonia-sahu/student-management-system.git
    cd student-management-system
+2. Install dependencies (if applicable):
+   npm install
